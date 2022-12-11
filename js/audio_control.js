@@ -1,4 +1,4 @@
-var myAudio = document.getElementById("suiseinamba1");
+var myAudio = document.getElementById("reszeinz");
 const delay = ms => new Promise(res => setTimeout(res, ms));
 myAudio.volume = 0.4;
 
